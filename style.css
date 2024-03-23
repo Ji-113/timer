@@ -33,7 +33,7 @@ h1 {
   text-align: center;
 }
 
-#start, #reset {
+#min, #sec, #start, #reset {
   font-size: 1.5rem;
   border-radius: .3rem;
   box-shadow: 0 0 20px rgba(77, 78, 79, 0.25);
