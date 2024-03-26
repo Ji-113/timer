@@ -28,9 +28,8 @@ h1 {
   background-color: #000000;
   font-size: 3rem;
   text-align: center;
-  padding: 1rem;
+  padding: 1.5rem;
   border-radius: 1rem;
-  box-shadow: 0 0 20px rgba(0,139,253,0.25);
   margin: .5rem;
 }
 
