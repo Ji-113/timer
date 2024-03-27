@@ -43,7 +43,22 @@ h1 {
 }
 
 #thoughts{
-  margin: auto;
+
+a.btn-flat {
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+	width: 120px;
+	margin: auto;
+	padding: 1rem 4rem;
+	color: #fff;
+	font-weight: bold;
+	background: #27acd9;
+	position: relative;
+	transition: 0.3s ease-in-out;
+}
+
   *,
 *:before,
 *:after {
