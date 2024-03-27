@@ -11,10 +11,6 @@ h1 {
   margin: 3rem;
 }
 
-#all{
-  background-color: #000000
-}
-
 #controls {
   background-color: #000000;
   width: 540px;
@@ -26,10 +22,9 @@ h1 {
 #timer {
   color: #FF0000;
   background-color: #000000;
-  width: 540px;
   font-size: 3rem;
   text-align: center;
-  padding: 1.5rem;
+  padding: 1rem;
   border-radius: 1rem;
   margin: .5rem;
 }
