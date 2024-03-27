@@ -43,7 +43,7 @@ h1 {
 }
 
 #thoughts{
-  justify-content: center;
+  margin: auto;
   *,
 *:before,
 *:after {
